@@ -303,6 +303,7 @@ If you like this project:
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7ff62d3d-49f7-48ce-8506-576ed5d95268" />
 <img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ba84b38a-b8b7-4044-af79-fd084d18f86e" />
 <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/68b29383-6bc2-4ba6-a31c-0a67d40b9b40" />
+<img width="1926" height="890" alt="image" src="https://github.com/user-attachments/assets/2fdc8247-f162-473d-b6ab-b5bb9a6f443c" />
 
 <img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/adffa46c-dfb8-4b5b-b038-01cb82011639" />
 <img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/21105b13-4870-4e01-8766-68bb6a29fc89" />
@@ -311,7 +312,10 @@ If you like this project:
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/a4e1125f-f3c0-4309-a5bc-fa8f7f4bbf28" />
 
 
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" />#
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" />
+
+
+
 
 
 
