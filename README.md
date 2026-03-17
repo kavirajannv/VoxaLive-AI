@@ -1,134 +1,58 @@
-VoxaLive-AI
-🌍 Real-Time AI Communication & Smart Meeting Platform
+# VoxaLive-AI
 
-"AI-powered meetings with real-time translation, smart notes, and seamless global communication."
+## Overview
+VoxaLive-AI is an innovative project designed to provide cutting-edge AI functionalities for various applications.
 
-🧠 Project Overview
+## Features
+- **Real-Time Processing**: Seamless integration of real-time data processing capabilities.  
+- **User-Friendly Interface**: Designed for easy navigation and efficiency.  
+- **Customizable Modules**: Flexible options for users to tailor functionalities as per their needs.
 
-VoxaLive-AI is a next-generation real-time AI communication platform that enables users to chat, audio call, video call, and conduct intelligent meetings with automatic AI-generated notes and real-time translation.
+## Getting Started
+To get started with VoxaLive-AI, follow these simple steps:
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/kavirajannv/VoxaLive-AI.git
+   ```  
+2. Install dependencies:  
+   ```bash
+   cd VoxaLive-AI
+   npm install
+   ```
+3. Run the application:  
+   ```bash
+   npm start
+   ```
 
-The system uses Artificial Intelligence (AI) and Natural Language Processing (NLP) to understand conversations, translate them instantly, and generate smart summaries in the user’s preferred language.
+## Contributing
+We welcome contributions from the community! To contribute to VoxaLive-AI, please follow these guidelines:
+- Fork the repository.  
+- Create a new branch:  
+   ```bash
+   git checkout -b feature/YourFeature
+   ```  
+- Make your changes and add your files:  
+   ```bash
+   git add .
+   ```  
+- Commit your changes:  
+   ```bash
+   git commit -m "Add your commit message"
+   ```  
+- Push to the branch:  
+   ```bash
+   git push origin feature/YourFeature
+   ```  
+- Open a pull request.
 
-🎯 Problem Statement
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Communication across different languages is a major challenge in global collaboration. Existing platforms lack real-time multilingual support, smart meeting insights, and AI-driven automation.
+## Contact
+For any inquiries, please reach out to [Your Email](mailto:your.email@example.com).
 
-💡 Solution
+## Acknowledgements
+- Thanks to all contributors and community members who make this project possible.
 
-VoxaLive-AI provides:
-
-🌍 Instant multi-language communication
-
-🎥 Real-time audio/video meetings
-
-📝 Automatic AI meeting notes
-
-🧠 NLP-based smart conversation processing
-
-✨ Core Features
-💬 Communication
-
-Real-Time Chat-to-Chat Messaging
-
-Instant messaging using Socket.IO
-
-📞 Audio Communication
-
-Audio Call-to-Audio Call
-
-🎙️ Real-Time AI Voice Translation during calls
-
-🎥 Video Communication & Meetings
-
-One-to-One Video Calls
-
-Multi-User Meeting Rooms
-
-🖥️ Screen Sharing & Presentation Mode
-
-🧠 AI & NLP Features
-
-📝 Automatic Meeting Notes Generation
-
-📄 Smart AI Meeting Summary
-
-🧠 NLP-Based Conversation Understanding
-
-🔍 Key Points Extraction
-
-🌍 Translation System
-
-Real-Time Voice Translation
-
-Text Translation
-
-🔄 User-Selected Native Language Output
-
-🌐 Multi-Language Support
-
-⚡ Performance
-
-Low Latency Real-Time Communication
-
-Scalable Architecture for multiple users
-
-🤖 AI Meeting Intelligence
-
-Captures live meeting conversations
-
-Converts speech → text using AI
-
-Generates automatic summaries
-
-Extracts key discussion points
-
-Supports multi-language meeting notes
-
-🏗️ System Architecture
-
-Frontend (React)
-⬇
-Backend (Node.js + Express)
-⬇
-Real-Time Layer (Socket.IO + WebRTC)
-⬇
-AI Engine (NLP + Translation APIs)
-⬇
-Database (MongoDB)
-
-🛠️ Tech Stack
-Frontend
-
-React.js
-
-Tailwind CSS
-
-Backend
-
-Node.js
-
-Express.js
-
-Database
-
-MongoDB
-
-Real-Time Technologies
-
-WebRTC
-
-Socket.IO
-
-AI & APIs
-
-NLP (Natural Language Processing)
-
-Translation APIs
-
-Speech-to-Text APIs
-
-Tools & Platforms
-
-Firebase
-
-Git & GitHub
+---
+*Last updated on: 2026-03-17 at 08:07:30 UTC*
