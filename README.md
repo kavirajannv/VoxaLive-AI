@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" /># 🚀 VoxaLive-AI
+<img width="1901" height="902" alt="Screenshot 2026-03-17 114650" src="https://github.com/user-attachments/assets/0495ab74-2096-439f-b442-b910eff16e33" />
+ 🚀 VoxaLive-AI
 
 ### 🌍 Real-Time AI Communication & Smart Meeting Platform
 
@@ -310,6 +311,7 @@ If you like this project:
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/a4e1125f-f3c0-4309-a5bc-fa8f7f4bbf28" />
 
 
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" />#
 
 
 
