@@ -240,6 +240,22 @@ npm start
 
 (Add your UI screenshots here — important for recruiters)
 
+<img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/a014e4fc-67c1-4d79-8c62-98351fea0ccd" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/48c7f3d7-2887-4c61-8509-e812ba925294" />
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7ff62d3d-49f7-48ce-8506-576ed5d95268" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ba84b38a-b8b7-4044-af79-fd084d18f86e" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/68b29383-6bc2-4ba6-a31c-0a67d40b9b40" />
+<img width="1926" height="890" alt="image" src="https://github.com/user-attachments/assets/2fdc8247-f162-473d-b6ab-b5bb9a6f443c" />
+
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/adffa46c-dfb8-4b5b-b038-01cb82011639" />
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/21105b13-4870-4e01-8766-68bb6a29fc89" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f04a82d8-4656-467f-b50f-95266a7f9954" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/765de942-f2bd-43ad-9b30-5a16ca60bb3a" />
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/a4e1125f-f3c0-4309-a5bc-fa8f7f4bbf28" />
+
+
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" />
 ---
 
 ## 🚀 Future Enhancements
@@ -295,24 +311,6 @@ If you like this project:
 ## 🧩 Final Tagline
 
 > "One Platform. All Languages. Real-Time AI Communication with Smart Meetings."
->
-**SCREENSHOTS**
-<img width="1920" height="1080" alt="0" src="https://github.com/user-attachments/assets/a014e4fc-67c1-4d79-8c62-98351fea0ccd" />
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/48c7f3d7-2887-4c61-8509-e812ba925294" />
-
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/7ff62d3d-49f7-48ce-8506-576ed5d95268" />
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/ba84b38a-b8b7-4044-af79-fd084d18f86e" />
-<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/68b29383-6bc2-4ba6-a31c-0a67d40b9b40" />
-<img width="1926" height="890" alt="image" src="https://github.com/user-attachments/assets/2fdc8247-f162-473d-b6ab-b5bb9a6f443c" />
-
-<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/adffa46c-dfb8-4b5b-b038-01cb82011639" />
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/21105b13-4870-4e01-8766-68bb6a29fc89" />
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f04a82d8-4656-467f-b50f-95266a7f9954" />
-<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/765de942-f2bd-43ad-9b30-5a16ca60bb3a" />
-<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/a4e1125f-f3c0-4309-a5bc-fa8f7f4bbf28" />
-
-
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f713468d-5eb9-4ce7-bbaf-159477cd393e" />
 
 
 
